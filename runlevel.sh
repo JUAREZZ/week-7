@@ -1,3 +1,4 @@
+#!/bin/bash
 #runlevel 
 
 #this scrpt will tell you what is your current runlevel 
